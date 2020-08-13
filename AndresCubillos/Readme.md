@@ -15,7 +15,6 @@ Masculino
 * Escuchar música
 * Tocar Guitarra
 * Ver Series
-* Dormir
 * Montar Bicicleta
 ### Peliculas Favoritas
 1. Wall-e
